@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
+import Carousel from './carousel/Carousel';
 import NewsLetter from "./NewsLetter/NewsLetter";
 import FeaturedSection from "./FeaturedSection/FeaturedSection";
 import FeaturedCategories from "./FeaturedCategories/FeaturedCategories";
@@ -8,7 +9,7 @@ class Main extends Component {
   render() {
     return (
       <div>
-        <h1>Main Components</h1>
+        <Carousel />
         <FeaturedCategories />
         <FeaturedSection />
         <NewsLetter />
