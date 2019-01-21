@@ -66,7 +66,7 @@ class Navbar extends Component {
         <div className="navbar_logo">
           <img src={logoSvg} alt="logo" />
         </div>
-        Right Side
+        {/* Right Side */}
         <Cart />
       </NavStyle>
     );

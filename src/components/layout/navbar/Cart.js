@@ -2,6 +2,14 @@ import React, { Component } from "react";
 import PropTypes from "prop-types";
 
 class Cart extends Component {
+  state = {
+    isOpen: false
+  };
+  cartWidget = () => {
+    this.setState((state, props) => {
+      return { isOpen: !state.isOpen };
+    });
+  };
   render() {
     return (
       <div>
@@ -16,9 +24,7 @@ class Cart extends Component {
             </ul>
           </div>
           <div className="search-button basel-search-full-screen">
-            {" "}
             <a href="#">
-              {" "}
               <i className="fa fa-search" />{" "}
             </a>
             <div className="basel-search-wrapper">
@@ -86,8 +92,11 @@ class Cart extends Component {
               Wishlist <span className="wishlist-count">0</span>
             </a>
           </div>
-          <div className="shopping-cart basel-cart-design-1 basel-cart-icon cart-widget-opener">
-            <a href="https://demo.xtemos.com/basel/cart/">
+          <div
+            className="shopping-cart basel-cart-design-1 basel-cart-icon cart-widget-opener"
+            onClick={this.cartWidget}
+          >
+            <a href="/">
               <span>
                 Cart (<span>o</span>)
               </span>
@@ -105,6 +114,27 @@ class Cart extends Component {
           </div>
           <div className="mobile-nav-icon">
             <span className="basel-burger" />
+          </div>
+        </div>
+        {/* Side bar toggle */}
+        <div
+          className="cart-widget-side"
+          style={{
+            background: "gray"
+          }}
+        >
+          <div className="widget-heading">
+            <h3 className="widget-title">Shopping cart</h3>{" "}
+            <a href="#" className="widget-close">
+              close
+            </a>
+          </div>
+          <div className="widget woocommerce widget_shopping_cart">
+            <div className="widget_shopping_cart_content">
+              <p className="woocommerce-mini-cart__empty-message empty">
+                No products in the cart.
+              </p>
+            </div>
           </div>
         </div>
       </div>
