@@ -1,18 +1,100 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
+import styled from "styled-components";
+
+const CardWidget = styled.div`
+  .cart-widget-side {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 339px;
+    width: 340px;
+    transition: transform 0.3s ease;
+    display: none;
+    cursor: pointer;
+  }
+  .cart-widget-side .widget-heading {
+    margin-bottom: 20px;
+    padding: 28px 20px;
+    background-color: #000;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    display: -webkit-flex;
+    -webkit-align-items: center;
+    -webkit-flex-wrap: wrap;
+    -webkit-flex-direction: row;
+    -webkit-justify-content: space-between;
+  }
+
+  .cart-widget-side .widget-heading .widget-title {
+    letter-spacing: 0.6px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-size: 24px;
+    vertical-align: middle;
+    display: inline-block;
+    color: #fff;
+    /* font-family: Karla; */
+    font-weight: 700;
+    font-style: normal;
+  }
+  .cart-widget-side .widget-heading .widget-close {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 12px;
+    letter-spacing: 0.6px;
+    line-height: 35px;
+    position: relative;
+    cursor: pointer;
+    padding-right: 21px;
+    &::before {
+      content: " ";
+      position: absolute;
+      right: 0;
+      top: 50%;
+      margin-top: -1px;
+      width: 15px;
+      height: 2px;
+      display: inline-block;
+      background-color: #fff;
+      -webkit-transition: background-color 0.2s ease-in-out,
+        transform 0.2s ease-in-out, width 0.2s ease-in-out;
+      -moz-transition: background-color 0.2s ease-in-out,
+        transform 0.2s ease-in-out, width 0.2s ease-in-out;
+      -o-transition: background-color 0.2s ease-in-out,
+        transform 0.2s ease-in-out, width 0.2s ease-in-out;
+      transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out,
+        width 0.2s ease-in-out;
+    }
+    *:before,
+    *:after {
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+  }
+`;
 
 class Cart extends Component {
   state = {
     isOpen: false
   };
+
   cartWidget = () => {
-    this.setState((state, props) => {
-      return { isOpen: !state.isOpen };
-    });
+    this.setState(
+      (state, props) => {
+        return { isOpen: !state.isOpen };
+      },
+      () => console.log(this.state.isOpen)
+    );
   };
   render() {
     return (
-      <div>
+      // <CardWidget>
+      <CardWidget>
         <div className="right-column">
           <div className="header-links my-account-with-text">
             <ul>
@@ -40,7 +122,6 @@ class Cart extends Component {
                       value=""
                       name="s"
                       id="s"
-                      autocomplete="off"
                     />
                     <input
                       type="hidden"
@@ -57,11 +138,9 @@ class Cart extends Component {
                   <div className="basel-scroll has-scrollbar">
                     <div
                       className="basel-search-results basel-scroll-content"
-                      tabindex="0"
                       style={{ right: "-17px" }}
                     >
                       <div
-                        className="autocomplete-suggestions"
                         style={{
                           position: "absolute",
                           display: "none",
@@ -95,8 +174,9 @@ class Cart extends Component {
           <div
             className="shopping-cart basel-cart-design-1 basel-cart-icon cart-widget-opener"
             onClick={this.cartWidget}
+            style={{ cursor: "pointer" }}
           >
-            <a href="/">
+            <a>
               <span>
                 Cart (<span>o</span>)
               </span>
@@ -119,13 +199,11 @@ class Cart extends Component {
         {/* Side bar toggle */}
         <div
           className="cart-widget-side"
-          style={{
-            background: "gray"
-          }}
+          style={this.state.isOpen ? { display: "block" } : { display: "none" }}
         >
           <div className="widget-heading">
-            <h3 className="widget-title">Shopping cart</h3>{" "}
-            <a href="#" className="widget-close">
+            <h3 className="widget-title">Shopping cart</h3>
+            <a href="#" className="widget-close" onClick={this.cartWidget}>
               close
             </a>
           </div>
@@ -137,7 +215,8 @@ class Cart extends Component {
             </div>
           </div>
         </div>
-      </div>
+      </CardWidget>
+      // </CardWidget>
     );
   }
 }
