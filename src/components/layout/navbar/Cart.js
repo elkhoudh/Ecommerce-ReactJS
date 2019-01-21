@@ -12,6 +12,7 @@ const CardWidget = styled.div`
     transition: transform 0.3s ease;
     display: none;
     cursor: pointer;
+    z-index: 10000;
   }
   .cart-widget-side .widget-heading {
     margin-bottom: 20px;
@@ -75,6 +76,15 @@ const CardWidget = styled.div`
       -moz-box-sizing: border-box;
       box-sizing: border-box;
     }
+  }
+  .basel-close-side {
+    top: -150px;
+    height: calc(100vh + 300px);
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 400;
+    width: 100%;
+    transition: all 0.3s ease;
   }
 `;
 
@@ -215,6 +225,21 @@ class Cart extends Component {
             </div>
           </div>
         </div>
+        <div
+          className="basel-close-side"
+          onClick={this.cartWidget}
+          style={
+            this.state.isOpen
+              ? {
+                  opacity: 1,
+                  visibility: "visible"
+                }
+              : {
+                  opacity: 0
+                  // visibility: "visible"
+                }
+          }
+        />
       </CardWidget>
       // </CardWidget>
     );
