@@ -122,12 +122,12 @@ class Cart extends Component {
         </div>
         {/* Side bar toggle */}
         <div
-          className="nav-style__cart-widget__side"
+          className="cart-widget-side"
           style={this.state.isOpen ? { display: "block" } : { display: "none" }}
         >
-          <div className="nav-style__cart-widget__side__heading">
-            <h3 className="nav-style__cart-widget__side__heading__title">Shopping cart</h3>
-            <a href="#" className="nav-style__cart-widget__side__heading__close" onClick={this.cartWidget}>
+          <div className="widget-heading">
+            <h3 className="widget-title">Shopping cart</h3>
+            <a href="#" className="widget-close" onClick={this.cartWidget}>
               close
             </a>
           </div>
@@ -140,7 +140,7 @@ class Cart extends Component {
           </div>
         </div>
         <div
-          className="nav-style__basel-close-side"
+          className="basel-close-side"
           onClick={this.cartWidget}
           style={
             this.state.isOpen
