@@ -1,52 +1,15 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import styled from "styled-components";
+import "./NavBar.scss";
 import { NavLink } from "react-router-dom";
 import logoSvg from "../../../assets/logo-basel.svg";
 import Cart from "./Cart";
 
-const NavStyle = styled.nav`
-  display: flex;
-  align-items: center;
-  min-height: 100px;
-  justify-content: space-evenly;
-
-  .nav__parent {
-    a {
-      margin-right: 25px;
-      text-decoration: none;
-      font-size: 13px;
-      color: black;
-    }
-  }
-
-  .navbar_logo {
-    img {
-      width: 200px;
-    }
-  }
-
-  .nav-right {
-    .fa {
-      font-size: 55px;
-      color: red;
-      border: 1px solid red;
-    }
-
-    .wishlist {
-      &:after {
-        content: "testing";
-        font-family: Simple-Line-Icons;
-      }
-    }
-  }
-`;
-
 class Navbar extends Component {
   render() {
     return (
-      <NavStyle>
-        <div className="nav__parent">
+      <div className="nav-style">
+        <div className="nav-style__parent">
           <NavLink to="/home" activeStyle={{ color: "#00AAA3" }}>
             HOME
           </NavLink>
@@ -63,12 +26,14 @@ class Navbar extends Component {
             FEATURES
           </NavLink>
         </div>
-        <div className="navbar_logo">
-          <img src={logoSvg} alt="logo" />
+        <div className="nav-style__logo">
+          <NavLink to="/home" activeStyle={{ color: "#00AAA3" }}>
+            <img src={logoSvg} alt="logo" />
+          </NavLink>
         </div>
         {/* Right Side */}
         <Cart />
-      </NavStyle>
+      </div>
     );
   }
 }
