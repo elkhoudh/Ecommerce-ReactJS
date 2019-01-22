@@ -1,19 +1,14 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
-import Carousel from './carousel/Carousel';
-import NewsLetter from "./NewsLetter/NewsLetter";
-import FeaturedSection from "./FeaturedSection/FeaturedSection";
-import FeaturedCategories from "./FeaturedCategories/FeaturedCategories";
-import About from "./About/About";
+import { Route } from "react-router-dom";
+import MainPageContainer from "./MainPageContainer/MainPageContainer";
+import SinglePageContainer from "./SinglePageContainer/SinglePageContainer";
+
 class Main extends Component {
   render() {
     return (
       <div>
-        <Carousel />
-        <FeaturedCategories />
-        <FeaturedSection />
-        <NewsLetter />
-        <About />
+        <Route exact path="/" component={MainPageContainer} />
+        <Route path="/singleproduct" component={SinglePageContainer} />
       </div>
     );
   }
