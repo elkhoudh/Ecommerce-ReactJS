@@ -4,8 +4,6 @@ import Navbar from "./navbar/Navbar";
 import Main from "./main/Main";
 import Footer from "./footer/Footer";
 
-import PropTypes from "prop-types";
-
 class Layout extends Component {
   render() {
     return (
@@ -18,7 +16,5 @@ class Layout extends Component {
     );
   }
 }
-
-Layout.propTypes = {};
 
 export default Layout;

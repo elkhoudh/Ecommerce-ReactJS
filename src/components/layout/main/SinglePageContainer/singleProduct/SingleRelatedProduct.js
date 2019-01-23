@@ -41,7 +41,7 @@ class SingleRelatedProduct extends Component {
                               height={348}
                               src="https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-3.jpg"
                               className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                              alt
+                              alt=""
                               srcSet="https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-3.jpg 870w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-3-235x300.jpg 235w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-3-768x980.jpg 768w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-3-803x1024.jpg 803w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-3-266x340.jpg 266w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-3-219x280.jpg 219w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-3-263x336.jpg 263w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-3-526x671.jpg 526w"
                               sizes="(max-width: 273px) 100vw, 273px"
                             />{" "}
@@ -55,7 +55,7 @@ class SingleRelatedProduct extends Component {
                                 height={348}
                                 src="https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-12.jpg"
                                 className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                alt
+                                alt=""
                                 srcSet="https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-12.jpg 870w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-12-235x300.jpg 235w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-12-768x980.jpg 768w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-12-803x1024.jpg 803w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-12-266x340.jpg 266w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-12-219x280.jpg 219w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-12-263x336.jpg 263w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-12-526x671.jpg 526w"
                                 sizes="(max-width: 273px) 100vw, 273px"
                               />{" "}
@@ -252,7 +252,7 @@ class SingleRelatedProduct extends Component {
                               height={348}
                               src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-33.jpg"
                               className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                              alt
+                              alt=""
                               srcSet="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-33.jpg 870w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/man-33-235x300.jpg 235w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/man-33-768x980.jpg 768w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-33-803x1024.jpg 803w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/man-33-266x340.jpg 266w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/man-33-219x280.jpg 219w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/man-33-263x336.jpg 263w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/man-33-526x671.jpg 526w"
                               sizes="(max-width: 273px) 100vw, 273px"
                             />{" "}
@@ -266,7 +266,7 @@ class SingleRelatedProduct extends Component {
                                 height={348}
                                 src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-18.jpg"
                                 className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                alt
+                                alt=""
                                 srcSet="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-18.jpg 870w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/man-18-235x300.jpg 235w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/man-18-768x980.jpg 768w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/man-18-803x1024.jpg 803w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/man-18-266x340.jpg 266w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-18-219x280.jpg 219w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-18-263x336.jpg 263w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/man-18-526x671.jpg 526w"
                                 sizes="(max-width: 273px) 100vw, 273px"
                               />{" "}
@@ -431,7 +431,7 @@ class SingleRelatedProduct extends Component {
                               height={348}
                               src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-7.jpg"
                               className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                              alt
+                              alt=""
                               srcSet="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-7.jpg 870w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-7-235x300.jpg 235w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-7-768x980.jpg 768w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-7-803x1024.jpg 803w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-7-266x340.jpg 266w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-7-219x280.jpg 219w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-7-263x336.jpg 263w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-7-526x671.jpg 526w"
                               sizes="(max-width: 273px) 100vw, 273px"
                             />{" "}
@@ -445,7 +445,7 @@ class SingleRelatedProduct extends Component {
                                 height={348}
                                 src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-1.jpg"
                                 className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                alt
+                                alt=""
                                 srcSet="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-1.jpg 870w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-1-235x300.jpg 235w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-1-768x980.jpg 768w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-1-803x1024.jpg 803w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-1-266x340.jpg 266w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-1-219x280.jpg 219w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-1-263x336.jpg 263w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-1-526x671.jpg 526w"
                                 sizes="(max-width: 273px) 100vw, 273px"
                               />{" "}
@@ -610,7 +610,7 @@ class SingleRelatedProduct extends Component {
                               height={348}
                               src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-16.jpg"
                               className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                              alt
+                              alt=""
                               srcSet="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-16.jpg 870w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-16-235x300.jpg 235w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-16-768x980.jpg 768w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-16-803x1024.jpg 803w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-16-266x340.jpg 266w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-16-219x280.jpg 219w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-16-263x336.jpg 263w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-16-526x671.jpg 526w"
                               sizes="(max-width: 273px) 100vw, 273px"
                             />{" "}
@@ -624,7 +624,7 @@ class SingleRelatedProduct extends Component {
                                 height={348}
                                 src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-5.jpg"
                                 className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                alt
+                                alt=""
                                 srcSet="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-5.jpg 870w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-5-235x300.jpg 235w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-5-768x980.jpg 768w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-5-803x1024.jpg 803w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-5-266x340.jpg 266w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-5-219x280.jpg 219w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-5-263x336.jpg 263w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-5-526x671.jpg 526w"
                                 sizes="(max-width: 273px) 100vw, 273px"
                               />{" "}
@@ -794,7 +794,7 @@ class SingleRelatedProduct extends Component {
                               height={348}
                               src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-1.jpg"
                               className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                              alt
+                              alt=""
                               srcSet="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-1.jpg 870w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-1-235x300.jpg 235w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-1-768x980.jpg 768w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-1-803x1024.jpg 803w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-1-266x340.jpg 266w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-1-219x280.jpg 219w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-1-263x336.jpg 263w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-1-526x671.jpg 526w"
                               sizes="(max-width: 273px) 100vw, 273px"
                             />{" "}
@@ -808,7 +808,7 @@ class SingleRelatedProduct extends Component {
                                 height={348}
                                 src="https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-17.jpg"
                                 className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                alt
+                                alt=""
                                 srcSet="https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-17.jpg 870w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-17-235x300.jpg 235w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-17-768x980.jpg 768w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-17-803x1024.jpg 803w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-17-266x340.jpg 266w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-17-219x280.jpg 219w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-17-263x336.jpg 263w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-17-526x671.jpg 526w"
                                 sizes="(max-width: 273px) 100vw, 273px"
                               />{" "}
@@ -1005,7 +1005,7 @@ class SingleRelatedProduct extends Component {
                               height={348}
                               src="https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/man-26.jpg"
                               className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                              alt
+                              alt=""
                               srcSet="https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/man-26.jpg 870w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/man-26-235x300.jpg 235w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-26-768x980.jpg 768w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-26-803x1024.jpg 803w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/man-26-266x340.jpg 266w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-26-219x280.jpg 219w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/man-26-263x336.jpg 263w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/man-26-526x671.jpg 526w"
                               sizes="(max-width: 273px) 100vw, 273px"
                             />{" "}
@@ -1019,7 +1019,7 @@ class SingleRelatedProduct extends Component {
                                 height={348}
                                 src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-23.jpg"
                                 className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                alt
+                                alt=""
                                 srcSet="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-23.jpg 870w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-23-235x300.jpg 235w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-23-768x980.jpg 768w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/man-23-803x1024.jpg 803w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-23-266x340.jpg 266w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-23-219x280.jpg 219w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/man-23-263x336.jpg 263w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/man-23-526x671.jpg 526w"
                                 sizes="(max-width: 273px) 100vw, 273px"
                               />{" "}
@@ -1211,7 +1211,7 @@ class SingleRelatedProduct extends Component {
                               height={348}
                               src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-21.jpg"
                               className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                              alt
+                              alt=""
                               srcSet="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-21.jpg 870w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-21-235x300.jpg 235w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-21-768x980.jpg 768w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-21-803x1024.jpg 803w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-21-266x340.jpg 266w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-21-219x280.jpg 219w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-21-263x336.jpg 263w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-21-526x671.jpg 526w"
                               sizes="(max-width: 273px) 100vw, 273px"
                             />{" "}
@@ -1225,7 +1225,7 @@ class SingleRelatedProduct extends Component {
                                 height={348}
                                 src="https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-22.jpg"
                                 className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                alt
+                                alt=""
                                 srcSet="https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-22.jpg 870w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-22-235x300.jpg 235w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-22-768x980.jpg 768w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-22-803x1024.jpg 803w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-22-266x340.jpg 266w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-22-219x280.jpg 219w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-22-263x336.jpg 263w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/accessories-22-526x671.jpg 526w"
                                 sizes="(max-width: 273px) 100vw, 273px"
                               />{" "}
@@ -1390,7 +1390,7 @@ class SingleRelatedProduct extends Component {
                               height={348}
                               src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-31.jpg"
                               className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                              alt
+                              alt=""
                               srcSet="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-31.jpg 870w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-31-235x300.jpg 235w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/man-31-768x980.jpg 768w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-31-803x1024.jpg 803w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/man-31-266x340.jpg 266w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-31-219x280.jpg 219w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/man-31-263x336.jpg 263w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/man-31-526x671.jpg 526w"
                               sizes="(max-width: 273px) 100vw, 273px"
                             />{" "}
@@ -1404,7 +1404,7 @@ class SingleRelatedProduct extends Component {
                                 height={348}
                                 src="https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/man-16.jpg"
                                 className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                alt
+                                alt=""
                                 srcSet="https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/man-16.jpg 870w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-16-235x300.jpg 235w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/man-16-768x980.jpg 768w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-16-803x1024.jpg 803w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-16-266x340.jpg 266w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/man-16-219x280.jpg 219w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/man-16-263x336.jpg 263w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/man-16-526x671.jpg 526w"
                                 sizes="(max-width: 273px) 100vw, 273px"
                               />{" "}

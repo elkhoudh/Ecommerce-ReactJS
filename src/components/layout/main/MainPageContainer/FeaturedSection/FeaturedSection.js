@@ -1,7 +1,7 @@
 import React from "react";
 import FeaturedProduct from "./FeaturedProduct";
 import { connect } from "react-redux";
-import { getAllProducts } from "../../../../store/actions/productActions";
+import { getAllProducts } from "../../../../../store/actions/productActions";
 
 const FeaturedSection = props => {
   props.onGetProducts();

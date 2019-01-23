@@ -48,7 +48,6 @@ const FeaturedCategories = props => {
                             className="color-primary"
                             style={{ textDecoration: "underline" }}
                             href="http://demo.xtemos.com/basel/shop/"
-                            target="_blank"
                             rel="noopener"
                           >
                             Your Store
@@ -92,10 +91,11 @@ const FeaturedCategories = props => {
                     <a
                       href="https://demo.xtemos.com/basel/product-category/bags/"
                       className="category-link-overlay"
-                    />
-                    <h3> Bags</h3>
-                    <a href="https://demo.xtemos.com/basel/product-category/bags/">
-                      View products
+                    >
+                      <h3> Bags</h3>
+                      <a href="https://demo.xtemos.com/basel/product-category/bags/">
+                        View products
+                      </a>
                     </a>
                   </div>
                 </div>
@@ -123,10 +123,11 @@ const FeaturedCategories = props => {
                     <a
                       href="https://demo.xtemos.com/basel/product-category/shoes/"
                       className="category-link-overlay"
-                    />
-                    <h3> Shoes</h3>
-                    <a href="https://demo.xtemos.com/basel/product-category/shoes/">
-                      View products
+                    >
+                      <h3> Shoes</h3>
+                      <a href="https://demo.xtemos.com/basel/product-category/shoes/">
+                        View products
+                      </a>
                     </a>
                   </div>
                 </div>
@@ -154,10 +155,11 @@ const FeaturedCategories = props => {
                     <a
                       href="https://demo.xtemos.com/basel/product-category/watches/"
                       className="category-link-overlay"
-                    />
-                    <h3> Watches</h3>
-                    <a href="https://demo.xtemos.com/basel/product-category/watches/">
-                      View products
+                    >
+                      <h3> Watches</h3>
+                      <a href="https://demo.xtemos.com/basel/product-category/watches/">
+                        View products
+                      </a>
                     </a>
                   </div>
                 </div>
@@ -185,10 +187,11 @@ const FeaturedCategories = props => {
                     <a
                       href="https://demo.xtemos.com/basel/product-category/woman/"
                       className="category-link-overlay"
-                    />
-                    <h3> Woman</h3>
-                    <a href="https://demo.xtemos.com/basel/product-category/woman/">
-                      View products
+                    >
+                      <h3> Woman</h3>
+                      <a href="https://demo.xtemos.com/basel/product-category/woman/">
+                        View products
+                      </a>
                     </a>
                   </div>
                 </div>

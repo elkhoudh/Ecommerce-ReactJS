@@ -5,7 +5,7 @@ const Moltin = MoltinGateway({
 });
 
 export const getAllProducts = () => dispatch => {
-  Moltin.Products.With("main-image")
+  Moltin.Products.With(["main_image"])
     .All()
     .then(products => {
       return dispatch({ type: "GET_PRODUCTS", data: products });

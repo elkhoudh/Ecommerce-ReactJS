@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
-import styled from "styled-components";
 
 class Cart extends Component {
   state = {
@@ -30,7 +28,7 @@ class Cart extends Component {
             </ul>
           </div>
           <div className="search-button basel-search-full-screen">
-            <a href="#">
+            <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
               <i className="fa fa-search" />{" "}
             </a>
             <div className="basel-search-wrapper">
@@ -100,7 +98,7 @@ class Cart extends Component {
             onClick={this.cartWidget}
             style={{ cursor: "pointer" }}
           >
-            <a>
+            <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
               <span>
                 Cart (<span>o</span>)
               </span>
@@ -127,7 +125,11 @@ class Cart extends Component {
         >
           <div className="widget-heading">
             <h3 className="widget-title">Shopping cart</h3>
-            <a href="#" className="widget-close" onClick={this.cartWidget}>
+            <a
+              href="https://github.com/elkhoudh/Ecommerce-ReactJS"
+              className="widget-close"
+              onClick={this.cartWidget}
+            >
               close
             </a>
           </div>
@@ -158,7 +160,5 @@ class Cart extends Component {
     );
   }
 }
-
-Cart.propTypes = {};
 
 export default Cart;

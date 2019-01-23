@@ -60,6 +60,9 @@ class Carousel extends Component {
       case "carousel-right-btn":
         this.carouselSlideRight();
         break;
+      
+        default: 
+          return null
     }
   };
 
