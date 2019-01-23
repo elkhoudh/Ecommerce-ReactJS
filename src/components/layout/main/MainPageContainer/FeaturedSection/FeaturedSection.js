@@ -1,6 +1,10 @@
 import React from "react";
 import FeaturedProduct from "./FeaturedProduct";
+import { connect } from "react-redux";
+import { getAllProducts } from "../../../../../store/actions/productActions";
+
 const FeaturedSection = props => {
+  props.onGetProducts();
   return (
     <div className="title-wrapper  basel-title-color-default basel-title-style-cross basel-title-size-default text-center vc_custom_1453814964817">
       <span className="title-subtitle font-default">MADE THE HARD WAY</span>
@@ -26,5 +30,14 @@ const FeaturedSection = props => {
     </div>
   );
 };
+const mapStateToProps = state => ({
+  products: state.products
+});
 
-export default FeaturedSection;
+const mapActionsToProps = {
+  onGetProducts: getAllProducts
+};
+export default connect(
+  mapStateToProps,
+  mapActionsToProps
+)(FeaturedSection);

@@ -65,7 +65,7 @@ const About = props => {
                     </div>
                     <div class="basel-button-wrapper text-center">
                       <a
-                        href="#"
+                        href="https://github.com/elkhoudh/Ecommerce-ReactJS"
                         title=""
                         class="btn btn-color-black btn-style-default btn-size-small"
                       >
@@ -110,7 +110,7 @@ const About = props => {
                     </div>
                     <div class="basel-button-wrapper text-center">
                       <a
-                        href="#"
+                        href="https://github.com/elkhoudh/Ecommerce-ReactJS"
                         title=""
                         class="btn btn-color-default btn-style-bordered btn-size-small"
                       >

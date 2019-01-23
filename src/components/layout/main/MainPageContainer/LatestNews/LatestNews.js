@@ -61,7 +61,10 @@ const LatestNews = () => {
           <LatestNewsArticle />
           <LatestNewsArticle />
         </div>
-        <a href="#" className="btn basel-blog-load-more">
+        <a
+          href="https://github.com/elkhoudh/Ecommerce-ReactJS"
+          className="btn basel-blog-load-more"
+        >
           Load more posts
         </a>
       </div>

@@ -76,7 +76,7 @@ const TestimonialPartner = () => {
                             height={70}
                             src="https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/07/logo-6.png"
                             className="basel-gallery-image image-1 attachment-full"
-                            alt
+                            alt="..."
                           />
                         </div>
                       </div>
@@ -91,7 +91,7 @@ const TestimonialPartner = () => {
                             height={70}
                             src="https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/07/logo-4.png"
                             className="basel-gallery-image image-2 attachment-full"
-                            alt
+                            alt="..."
                           />
                         </div>
                       </div>
@@ -106,7 +106,7 @@ const TestimonialPartner = () => {
                             height={70}
                             src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/07/logo-5.png"
                             className="basel-gallery-image image-3 attachment-full"
-                            alt
+                            alt="..."
                           />
                         </div>
                       </div>
@@ -121,7 +121,7 @@ const TestimonialPartner = () => {
                             height={70}
                             src="https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/07/logo-3.png"
                             className="basel-gallery-image image-4 attachment-full"
-                            alt
+                            alt="..."
                           />
                         </div>
                       </div>
@@ -136,7 +136,7 @@ const TestimonialPartner = () => {
                             height={70}
                             src="https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/07/logo-1.png"
                             className="basel-gallery-image image-5 attachment-full"
-                            alt
+                            alt="..."
                           />
                         </div>
                       </div>
@@ -148,7 +148,7 @@ const TestimonialPartner = () => {
                             height={70}
                             src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/07/logo-2.png"
                             className="basel-gallery-image image-6 attachment-full"
-                            alt
+                            alt="..."
                           />
                         </div>
                       </div>

@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
 import "./footer.scss";
 
 class Footer extends Component {
@@ -21,31 +20,46 @@ class Footer extends Component {
                   </p>
                   <ul className="social-icons text-center icons-design-default icons-size-default social-share ">
                     <li className="social-facebook">
-                      <a href="#" className="">
+                      <a
+                        href="https://github.com/elkhoudh/Ecommerce-ReactJS"
+                        className=""
+                      >
                         <i className="fa fa-facebook" />
                         <span className="basel-social-icon-name">Facebook</span>
                       </a>
                     </li>
                     <li className="social-twitter">
-                      <a href="#" className="">
+                      <a
+                        href="https://github.com/elkhoudh/Ecommerce-ReactJS"
+                        className=""
+                      >
                         <i className="fa fa-twitter" />
                         <span className="basel-social-icon-name">Twitter</span>
                       </a>
                     </li>
                     <li className="social-google">
-                      <a href="#" className="">
+                      <a
+                        href="https://github.com/elkhoudh/Ecommerce-ReactJS"
+                        className=""
+                      >
                         <i className="fa fa-google-plus" />
                         <span className="basel-social-icon-name">Google</span>
                       </a>
                     </li>
                     <li className="social-email">
-                      <a href="#" className="">
+                      <a
+                        href="https://github.com/elkhoudh/Ecommerce-ReactJS"
+                        className=""
+                      >
                         <i className="fa fa-envelope" />
                         <span className="basel-social-icon-name">Email</span>
                       </a>
                     </li>
                     <li className="social-pinterest">
-                      <a href="#" className="">
+                      <a
+                        href="https://github.com/elkhoudh/Ecommerce-ReactJS"
+                        className=""
+                      >
                         <i className="fa fa-pinterest" />
                         <span className="basel-social-icon-name">
                           Pinterest
@@ -64,22 +78,34 @@ class Footer extends Component {
                 <div className="textwidget">
                   <ul className="menu">
                     <li>
-                      <a href="#">New York</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        New York
+                      </a>
                     </li>
                     <li>
-                      <a href="#">London SF</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        London SF
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Cockfosters BP</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Cockfosters BP
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Los Angeles</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Los Angeles
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Chicago</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Chicago
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Las Vegas</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Las Vegas
+                      </a>
                     </li>
                   </ul>
                 </div>
@@ -91,22 +117,34 @@ class Footer extends Component {
                 <div className="textwidget">
                   <ul className="menu">
                     <li>
-                      <a href="#">About Store</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        About Store
+                      </a>
                     </li>
                     <li>
-                      <a href="#">New Collection</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        New Collection
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Woman Dress</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Woman Dress
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Contact Us</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Contact Us
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Latest News</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Latest News
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Our Sitemap</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Our Sitemap
+                      </a>
                     </li>
                   </ul>
                 </div>
@@ -119,22 +157,34 @@ class Footer extends Component {
                 <div className="textwidget">
                   <ul className="menu">
                     <li>
-                      <a href="#">Privacy Policy</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Privacy Policy
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Returns</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Returns
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Terms &amp; Conditions</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Terms &amp; Conditions
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Contact Us</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Contact Us
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Latest News</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Latest News
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Our Sitemap</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Our Sitemap
+                      </a>
                     </li>
                   </ul>
                 </div>
@@ -146,19 +196,29 @@ class Footer extends Component {
                 <div className="textwidget">
                   <ul className="menu">
                     <li>
-                      <a href="#">Instagram profile</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Instagram profile
+                      </a>
                     </li>
                     <li>
-                      <a href="#">New Collection</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        New Collection
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Woman Dress</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Woman Dress
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Contact Us</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Contact Us
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Latest News</a>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        Latest News
+                      </a>
                     </li>
                   </ul>
                 </div>
@@ -198,7 +258,10 @@ class Footer extends Component {
                   </div>
                   <br />
                   <p>
-                    <img src="//xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/08/payments.png" />
+                    <img
+                      alt="..."
+                      src="//xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/08/payments.png"
+                    />
                   </p>
                 </div>
               </div>
@@ -210,7 +273,10 @@ class Footer extends Component {
             <div className="min-footer">
               <div className="col-left">
                 <i className="fa fa-copyright" /> 2019 Created by{" "}
-                <a href="#" style={{ color: "white" }}>
+                <a
+                  href="https://github.com/elkhoudh/Ecommerce-ReactJS"
+                  style={{ color: "white" }}
+                >
                   <span style={{ color: "red", fontSize: "15px" }}>H</span>
                   amza,{" "}
                   <span style={{ color: "red", fontSize: "15px" }}>
@@ -226,7 +292,5 @@ class Footer extends Component {
     );
   }
 }
-
-Footer.propTypes = {};
 
 export default Footer;

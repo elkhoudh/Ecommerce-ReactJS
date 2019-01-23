@@ -14,46 +14,70 @@ const TestimonialRightGalerry = () => {
                 >
                   <ul className="instagram-pics ">
                     <li>
-                      <a href="//instagram.com/p/BN18hdmAEAE/" target="_self" />
-                      <div className="wrapp-pics">
-                        <img src="//xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/08/default-instagramm-1.jpg" />
-                        <div className="hover-mask" />
-                      </div>
+                      <a href="https://instagram.com/p/BN18hdmAEAE/">
+                        <div className="wrapp-pics">
+                          <img
+                            alt="..."
+                            src="//xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/08/default-instagramm-1.jpg"
+                          />
+                          <div className="hover-mask" />
+                        </div>
+                      </a>
                     </li>
                     <li>
-                      <a href="//instagram.com/p/BNKK9G1A8jb/" target="_self" />
-                      <div className="wrapp-pics">
-                        <img src="//xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/08/default-instagramm-2.jpg" />
-                        <div className="hover-mask" />
-                      </div>
+                      <a href="//instagram.com/p/BNKK9G1A8jb/" target="_self">
+                        <div className="wrapp-pics">
+                          <img
+                            alt="..."
+                            src="//xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/08/default-instagramm-2.jpg"
+                          />
+                          <div className="hover-mask" />
+                        </div>
+                      </a>
                     </li>
                     <li>
-                      <a href="//instagram.com/p/BM56g07AbfZ/" target="_self" />
-                      <div className="wrapp-pics">
-                        <img src="//xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/08/default-instagramm-3.jpg" />
-                        <div className="hover-mask" />
-                      </div>
+                      <a href="//instagram.com/p/BM56g07AbfZ/" target="_self">
+                        <div className="wrapp-pics">
+                          <img
+                            alt="..."
+                            src="//xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/08/default-instagramm-3.jpg"
+                          />
+                          <div className="hover-mask" />
+                        </div>
+                      </a>
                     </li>
                     <li>
-                      <a href="//instagram.com/p/BMe6AApgDEU/" target="_self" />
-                      <div className="wrapp-pics">
-                        <img src="//xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/08/default-instagramm-4.jpg" />
-                        <div className="hover-mask" />
-                      </div>
+                      <a href="//instagram.com/p/BMe6AApgDEU/" target="_self">
+                        <div className="wrapp-pics">
+                          <img
+                            alt="..."
+                            src="//xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/08/default-instagramm-4.jpg"
+                          />
+                          <div className="hover-mask" />
+                        </div>
+                      </a>
                     </li>
                     <li>
-                      <a href="//instagram.com/p/BLB_oAtgQEc/" target="_self" />
-                      <div className="wrapp-pics">
-                        <img src="//xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/08/default-instagramm-5.jpg" />
-                        <div className="hover-mask" />
-                      </div>
+                      <a href="//instagram.com/p/BLB_oAtgQEc/" target="_self">
+                        <div className="wrapp-pics">
+                          <img
+                            alt="..."
+                            src="//xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/08/default-instagramm-5.jpg"
+                          />
+                          <div className="hover-mask" />
+                        </div>
+                      </a>
                     </li>
                     <li>
-                      <a href="//instagram.com/p/BLMSPItDUez/" target="_self" />
-                      <div className="wrapp-pics">
-                        <img src="//xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/08/default-instagramm-6.jpg" />
-                        <div className="hover-mask" />
-                      </div>
+                      <a href="https://github.com/elkhoudh/Ecommerce-ReactJS">
+                        <div className="wrapp-pics">
+                          <img
+                            alt="..."
+                            src="//xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/08/default-instagramm-6.jpg"
+                          />
+                          <div className="hover-mask" />
+                        </div>
+                      </a>
                     </li>
                   </ul>
                 </div>

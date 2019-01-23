@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
 import "./NavBar.scss";
 import { NavLink } from "react-router-dom";
 import logoSvg from "../../../assets/logo-basel.svg";
@@ -41,7 +40,5 @@ class Navbar extends Component {
     );
   }
 }
-
-Navbar.propTypes = {};
 
 export default Navbar;

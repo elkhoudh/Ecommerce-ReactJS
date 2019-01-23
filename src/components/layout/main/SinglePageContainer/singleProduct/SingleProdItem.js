@@ -40,7 +40,7 @@ class SingleProdItem extends Component {
                         height={348}
                         src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-9.jpg"
                         className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                        alt
+                        alt="..."
                         srcSet="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-9.jpg 870w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-9-235x300.jpg 235w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-9-768x980.jpg 768w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-9-803x1024.jpg 803w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-9-266x340.jpg 266w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-9-219x280.jpg 219w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-9-263x336.jpg 263w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-9-526x671.jpg 526w"
                         sizes="(max-width: 273px) 100vw, 273px"
                       />{" "}
@@ -83,7 +83,7 @@ class SingleProdItem extends Component {
                         height={348}
                         src="https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-7.jpg"
                         className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                        alt
+                        alt="..."
                         srcSet="https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-7.jpg 870w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-7-235x300.jpg 235w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-7-768x980.jpg 768w, https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-7-803x1024.jpg 803w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-7-266x340.jpg 266w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-7-219x280.jpg 219w, https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-7-263x336.jpg 263w, https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/10/shoes-7-526x671.jpg 526w"
                         sizes="(max-width: 273px) 100vw, 273px"
                       />{" "}
@@ -158,7 +158,7 @@ class SingleProdItem extends Component {
                                       height={1110}
                                       src="https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-19.jpg"
                                       className="wp-post-image wp-post-image"
-                                      alt
+                                      alt="..."
                                       title="bag (19)"
                                       data-caption
                                       data-src="https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-19.jpg"
@@ -171,7 +171,7 @@ class SingleProdItem extends Component {
                                   </a>
                                   <img
                                     role="presentation"
-                                    alt
+                                    alt="..."
                                     src="https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-19.jpg"
                                     className="zoomImg"
                                     style={{
@@ -203,7 +203,7 @@ class SingleProdItem extends Component {
                                       height={1110}
                                       src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-23.jpg"
                                       className="attachment-woocommerce_single size-woocommerce_single"
-                                      alt
+                                      alt="..."
                                       title="bag (23)"
                                       data-caption
                                       data-src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-23.jpg"
@@ -216,7 +216,7 @@ class SingleProdItem extends Component {
                                   </a>
                                   <img
                                     role="presentation"
-                                    alt
+                                    alt="..."
                                     src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-23.jpg"
                                     className="zoomImg"
                                     style={{
@@ -248,7 +248,7 @@ class SingleProdItem extends Component {
                                       height={1110}
                                       src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-6.jpg"
                                       className="attachment-woocommerce_single size-woocommerce_single"
-                                      alt
+                                      alt="..."
                                       title="bag (6)"
                                       data-caption
                                       data-src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-6.jpg"
@@ -261,7 +261,7 @@ class SingleProdItem extends Component {
                                   </a>
                                   <img
                                     role="presentation"
-                                    alt
+                                    alt="..."
                                     src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-6.jpg"
                                     className="zoomImg"
                                     style={{
@@ -293,7 +293,7 @@ class SingleProdItem extends Component {
                                       height={1110}
                                       src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-1.jpg"
                                       className="attachment-woocommerce_single size-woocommerce_single"
-                                      alt
+                                      alt="..."
                                       title="bag (1)"
                                       data-caption
                                       data-src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-1.jpg"
@@ -306,7 +306,7 @@ class SingleProdItem extends Component {
                                   </a>
                                   <img
                                     role="presentation"
-                                    alt
+                                    alt="..."
                                     src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-1.jpg"
                                     className="zoomImg"
                                     style={{
@@ -333,7 +333,7 @@ class SingleProdItem extends Component {
                         </figure>
                         <div className="basel-show-product-gallery-wrap">
                           <a
-                            href="#"
+                            href="https://github.com/elkhoudh/Ecommerce-ReactJS"
                             className="basel-show-product-gallery basel-tooltip"
                           >
                             <span className="basel-tooltip-label">
@@ -359,7 +359,7 @@ class SingleProdItem extends Component {
                                 style={{ width: "22.5px" }}
                               >
                                 <img
-                                  alt
+                                  alt="..."
                                   title="bag (19)"
                                   src="https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-19.jpg"
                                 />
@@ -369,7 +369,7 @@ class SingleProdItem extends Component {
                                 style={{ width: "22.5px" }}
                               >
                                 <img
-                                  alt
+                                  alt="..."
                                   title="bag (23)"
                                   src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-23.jpg"
                                 />
@@ -379,7 +379,7 @@ class SingleProdItem extends Component {
                                 style={{ width: "22.5px" }}
                               >
                                 <img
-                                  alt
+                                  alt="..."
                                   title="bag (6)"
                                   src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-6.jpg"
                                 />
@@ -389,7 +389,7 @@ class SingleProdItem extends Component {
                                 style={{ width: "22.5px" }}
                               >
                                 <img
-                                  alt
+                                  alt="..."
                                   title="bag (1)"
                                   src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-1.jpg"
                                 />
@@ -587,7 +587,6 @@ class SingleProdItem extends Component {
                             <li className="social-facebook">
                               <a
                                 href="https://www.facebook.com/sharer/sharer.php?u=https://demo.xtemos.com/basel/shop/bags/youble-strap-backpack/"
-                                target="_blank"
                                 className
                               >
                                 <i className="fa fa-facebook" />
@@ -599,7 +598,6 @@ class SingleProdItem extends Component {
                             <li className="social-twitter">
                               <a
                                 href="http://twitter.com/share?url=https://demo.xtemos.com/basel/shop/bags/youble-strap-backpack/"
-                                target="_blank"
                                 className
                               >
                                 <i className="fa fa-twitter" />
@@ -611,7 +609,6 @@ class SingleProdItem extends Component {
                             <li className="social-google">
                               <a
                                 href="http://plus.google.com/share?url=https://demo.xtemos.com/basel/shop/bags/youble-strap-backpack/"
-                                target="_blank"
                                 className
                               >
                                 <i className="fa fa-google-plus" />
@@ -623,7 +620,6 @@ class SingleProdItem extends Component {
                             <li className="social-email">
                               <a
                                 href="mailto:?subject=Check this https://demo.xtemos.com/basel/shop/bags/youble-strap-backpack/"
-                                target="_blank"
                                 className
                               >
                                 <i className="fa fa-envelope" />
@@ -635,7 +631,6 @@ class SingleProdItem extends Component {
                             <li className="social-pinterest">
                               <a
                                 href="http://pinterest.com/pin/create/button/?url=https://demo.xtemos.com/basel/shop/bags/youble-strap-backpack/&media=https://xtemos3.r.worldssl.net/basel/wp-content/uploads/2015/10/bag-19.jpg"
-                                target="_blank"
                                 className
                               >
                                 <i className="fa fa-pinterest" />
@@ -853,19 +848,34 @@ class SingleProdItem extends Component {
                                     <label htmlFor="rating">Your rating</label>
                                     <p className="stars">
                                       <span>
-                                        <a className="star-1" href="#">
+                                        <a
+                                          className="star-1"
+                                          href="https://github.com/elkhoudh/Ecommerce-ReactJS"
+                                        >
                                           1
                                         </a>
-                                        <a className="star-2" href="#">
+                                        <a
+                                          className="star-2"
+                                          href="https://github.com/elkhoudh/Ecommerce-ReactJS"
+                                        >
                                           2
                                         </a>
-                                        <a className="star-3" href="#">
+                                        <a
+                                          className="star-3"
+                                          href="https://github.com/elkhoudh/Ecommerce-ReactJS"
+                                        >
                                           3
                                         </a>
-                                        <a className="star-4" href="#">
+                                        <a
+                                          className="star-4"
+                                          href="https://github.com/elkhoudh/Ecommerce-ReactJS"
+                                        >
                                           4
                                         </a>
-                                        <a className="star-5" href="#">
+                                        <a
+                                          className="star-5"
+                                          href="https://github.com/elkhoudh/Ecommerce-ReactJS"
+                                        >
                                           5
                                         </a>
                                       </span>
@@ -972,6 +982,7 @@ class SingleProdItem extends Component {
                         <img
                           src="https://xtemos2.r.worldssl.net/basel/wp-content/uploads/2015/08/shipping.jpg"
                           className="alignleft"
+                          alt="..."
                         />
                         <p>
                           Vestibulum curae torquent diam diam commodo parturient

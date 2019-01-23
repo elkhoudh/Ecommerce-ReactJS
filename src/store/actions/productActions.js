@@ -5,9 +5,11 @@ const Moltin = MoltinGateway({
 });
 
 export const getAllProducts = () => dispatch => {
-  Moltin.Products.All().then(products => {
-    return dispatch({ type: "GET_PRODUCTS", data: products });
-  });
+  Moltin.Products.With(["main_image"])
+    .All()
+    .then(products => {
+      return dispatch({ type: "GET_PRODUCTS", data: products });
+    });
 };
 
 export const getOneProduct = id => dispatch => {

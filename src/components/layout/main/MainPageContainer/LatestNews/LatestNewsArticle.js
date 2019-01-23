@@ -129,7 +129,7 @@ const LatestNewsArticle = () => {
             <li className="social-facebook">
               <a
                 href="https://www.facebook.com/sharer/sharer.php?u=https://demo.xtemos.com/basel/venenatis-veulum-peus/"
-                target="_blank"
+                
                 className
               >
                 <i className="fa fa-facebook" />
@@ -139,7 +139,7 @@ const LatestNewsArticle = () => {
             <li className="social-twitter">
               <a
                 href="http://twitter.com/share?url=https://demo.xtemos.com/basel/venenatis-veulum-peus/"
-                target="_blank"
+                
                 className
               >
                 <i className="fa fa-twitter" />
@@ -149,7 +149,7 @@ const LatestNewsArticle = () => {
             <li className="social-google">
               <a
                 href="http://plus.google.com/share?url=https://demo.xtemos.com/basel/venenatis-veulum-peus/"
-                target="_blank"
+                
                 className
               >
                 <i className="fa fa-google-plus" />
@@ -159,7 +159,7 @@ const LatestNewsArticle = () => {
             <li className="social-email">
               <a
                 href="mailto:?subject=Check this https://demo.xtemos.com/basel/venenatis-veulum-peus/"
-                target="_blank"
+                
                 className
               >
                 <i className="fa fa-envelope" />
@@ -169,7 +169,7 @@ const LatestNewsArticle = () => {
             <li className="social-pinterest">
               <a
                 href="http://pinterest.com/pin/create/button/?url=https://demo.xtemos.com/basel/venenatis-veulum-peus/&media=https://xtemos1.r.worldssl.net/basel/wp-content/uploads/2015/08/blog-new-17.jpg"
-                target="_blank"
+                
                 className
               >
                 <i className="fa fa-pinterest" />
